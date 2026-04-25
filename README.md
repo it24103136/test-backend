@@ -3,7 +3,7 @@
 # test-backend
 
 git init
-git add
+git add .
 git commmit -m "sds"
 git remote origin https...
 git branch -M main
